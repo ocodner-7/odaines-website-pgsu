@@ -19,9 +19,9 @@ So starting off...
 -When using the scrum framework a product is broken down into pieces  or ‘iterations’ known as ‘sprints’. This allows large complex projects to be broken down into more manageable bit-sized pieces.
 -Getting sprints right will help your agile team ship better software with fewer headaches. 
 
-## Sprints
+## More on sprints
 
-print planning - Sprint planning is a teamwork event that is based on the principle of answering 2 vital questions; What work will we get done in this sprint?’ And ’how will said work get done?’ This must be the ceremony that kicks off any sprint
+Sprint planning - Sprint planning is a teamwork event that is based on the principle of answering 2 vital questions; What work will we get done in this sprint?’ And ’how will said work get done?’ This must be the ceremony that kicks off any sprint
 Product backlog: A product backlog is a to do list that is based on priority. It should be laid out before sprint planning begins.
 -Selecting the best work items for a sprint is a shared effort between the product owner, scrum master and the development team.
 -In a scrum a sprint should be a fixed amount of time and should have strict deadlines. That’s why planning sprints is very important and the sprint planning itself should also be a strict, fixed amount of time.
