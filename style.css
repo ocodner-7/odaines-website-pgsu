@@ -27,3 +27,14 @@ body {
 	margin: 0 auto;
 }
 
+ul {
+    border:1px solid #C60;
+    border-width:1px 0;
+    list-style:none;
+	width: 900px;
+    margin:0 auto;
+    padding:0;
+    text-align:center;
+	font-family: 'Rubik Mono One', sans-serif;
+}
+
