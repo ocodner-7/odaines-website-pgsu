@@ -27,7 +27,7 @@ body {
 	margin: 0 auto;
 }
 
-ul {
+ol {
     border:1px solid #C60;
     border-width:1px 0;
     list-style:none;
