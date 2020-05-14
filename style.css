@@ -1,3 +1,12 @@
+body {
+	line-height: 1;
+	background: #1C1C1C;
+	border-top: 3px solid #C60;
+	width: 1000px;
+	margin: 0 auto;
+}
+
+
 h1 { 
     font-size: 70px;
     color:#CC6600;
@@ -12,20 +21,15 @@ h1 {
     color:#C60;
     font-family: 'Monoton', cursive;
     }
+    
+    p { 
+        text-align:center;
+        color:#C60;
+        font-family: 'Changa', sans-serif;
+        }
+        
 
-p {
-    color: white;
-}
 
-}
-
-body {
-	line-height: 1;
-	background: #1C1C1C;
-	border-top: 3px solid #C60;
-	width: 1000px;
-	margin: 0 auto;
-}
 
 ol {
     border:1px solid #C60;
